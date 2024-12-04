@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
-<h3 align="center">A passionate Software Development Engineer in Test</h3>
+<h3 align="center">A passionate Software Development Engineer</h3>
 
-- 🌱 I’m currently learning **React, Vue, Next, Node**
+- 🌱 I’m currently learning **React, NestJS, Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
